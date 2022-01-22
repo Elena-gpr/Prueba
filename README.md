@@ -1,2 +1,2 @@
-# Prueba
+## SFWT
 Introducción a Git
